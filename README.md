@@ -5,13 +5,11 @@
 - ❣️ J'aime deux choses dans la vie, mon café le matin et le code.
 - 🌱 Je suis actuellement à fond dans l'apprentissage de Spring Boot et ces outilles.
 
-<br />
-
 ### Langues et outils préféré:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />][linkedin]
 [<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" />][linkedin]
-[<img align="left" alt="Spring Boot" width="26px" src="https://lh3.googleusercontent.com/proxy/q5xTWe7sYBR7TUxY5_E5M1KDPVqtMRBf_f-6Sjk5_1GMwBwu3ZItKhUqPFP76AghQ16qAgPNOngjajVbqNXCo2dmaiGtjDcxKAY7Srya-9Zi6Sl07bY2mdCnY2zrmTOY-JgCuDFS1vTHdEvfkTwL" />][linkedin]
+[<img align="left" alt="Spring Boot" width="26px" src="https://lh3.googleusercontent.com/proxy/r22ZUOMxSUBe1EIUMZIG3w7uWUDI4O0GEFlAPzj-7j__rWV-gyTl_X7miS-XY02JaRcvCuQH_nkIB-1WSCiBv94RsmpUSkZLBrMLgRFjUx3k_hI5xrm_vYjwgLXoDx2WKt3-F5QWY1fpQujcB5Wq" />][linkedin]
 [<img align="left" alt="Thymeleaf" width="26px" src="https://www.thymeleaf.org/images/thymeleaf.png" />][linkedin]
 [<img align="left" alt=".NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
@@ -26,6 +24,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitKracken" width="26px" src="https://pccrack.org/wp-content/uploads/2021/04/gitkraken_glo.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
+<br />
 <br />
 
 ### Langues et outils que j'ai pu expérimenter:
