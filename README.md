@@ -29,9 +29,8 @@
 
 ### Langues et outils que j'ai pu expérimenter:
 
-[<img align="left" alt="ORACLE DB" width="70px" src="https://brandslogos.com/wp-content/uploads/images/large/oracle-logo-2.png" />][linkedin]
-
-[<img align="left" alt="Power BI" width="70px" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi_logo.png" />][linkedin]
+[<img align="left" alt="ORACLE DB" width="60px" src="https://brandslogos.com/wp-content/uploads/images/large/oracle-logo-2.png" />][linkedin]
+[<img align="left" alt="Power BI" width="60px" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi_logo.png" />][linkedin]
 
 <br />
 <br />
