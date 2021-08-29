@@ -22,15 +22,15 @@
 </p>
 <br/> 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mohamedbouanane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedbouanane" /></a></p><br><br>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-dev&show_icons=true&locale=en&layout=compact" alt="shining-dev" /><br/> </p><br/> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-dev&show_icons=true&locale=en&layout=compact" alt="shining-dev" /><br/> </p><br/> 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shining-dev&show_icons=true&locale=en" alt="shining-dev" /></p><br/> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shining-dev&show_icons=true&locale=en" alt="shining-dev" /></p><br/> 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shining-dev&" alt="shining-dev" /></p><br/> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shining-dev&" alt="shining-dev" /></p><br/> 
 
 <br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mohamedbouanane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedbouanane" /></a></p><br><br>
