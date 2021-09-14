@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Mohamed 👋</h3>
 
-<h2 align="left">A passionate backend developer from Morocco 🇲🇦</h2>
+<h2 align="left">A passionate backend developer</h2>
 <br/>
 
 <p align="left"> ‣ 🌱 I am currently learning  <strong>Spring Boot</strong> and these tools. </p>
@@ -36,7 +36,7 @@
 </p>
 
 <p>
-<a title="Microsoft Sql Server" href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a title="SQLite"  href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>
+<a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a title="Microsoft Sql Server" href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a>  <a title="SQLite"  href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>
 </p>
 
 <br/>
@@ -44,9 +44,9 @@
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-dev&show_icons=true&locale=en&layout=compact" alt="shining-dev" /> </p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shining-dev&show_icons=true&locale=en" alt="shining-dev" /></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shining-dev&show_icons=true&locale=en" alt="shining-dev" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohamedbouanane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedbouanane" /></a></p><br>
-
+<br/>
 <br/>
