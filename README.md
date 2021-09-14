@@ -11,8 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a title="Telegram" href="https://t.me/MohamedBOUANANE" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" alt="Telegram" height="30" width="30" /></a>
-<a title="Linkedin" href="https://linkedin.com/in/mohamed-bouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="30" /></a>
-<a title="HackerRank" href="https://www.hackerrank.com/mohamedbouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" /></a>
+<a title="Linkedin" href="https://linkedin.com/in/mohamed-bouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="30" /></a> <a title="HackerRank" href="https://www.hackerrank.com/mohamedbouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" /></a> <a title="SoloLearn" href="https://www.sololearn.com/profile/19010109" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="SoloLearn" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -35,8 +34,6 @@
 <p>
 <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a title="Microsoft Sql Server" href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a>  <a title="SQLite"  href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>
 </p>
-
-<br/>
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-dev&show_icons=true&locale=en&layout=compact" alt="shining-dev" /> </p><br/>
