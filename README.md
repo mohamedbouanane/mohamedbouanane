@@ -6,7 +6,7 @@
 <p align="left"> ‣ ⚡ My current goal is to be a 
  <strong>full stack web developer </strong> 
 (<strong>Spring Boot</strong> / <strong>Angular</strong>). </p>
-<p align="left"> ‣ ❣️ I like two things, my coffee in the morning and learning coding. </p>
+<p align="left"> ‣ ❣️ I like two things, my coffee in the morning and learning how to be a good software engineer. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
