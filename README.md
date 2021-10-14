@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a title="Telegram" href="https://t.me/MohamedBOUANANE" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" alt="Telegram" height="30" width="30" /></a>
-<a title="Linkedin" href="https://linkedin.com/in/mohamed-bouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="30" /></a> 
+<a title="Telegram" href="https://t.me/mohamedbouanane" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" alt="Telegram" height="30" width="30" /></a>
+<a title="Linkedin" href="https://linkedin.com/in/mohamedbouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="30" /></a> 
 <a title="HackerRank" href="https://www.hackerrank.com/mohamedbouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" /></a> 
 <a title="SoloLearn" href="https://www.sololearn.com/profile/19010109" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="SoloLearn" height="30" width="30" /></a>
 </p>
@@ -55,9 +55,9 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-dev&show_icons=true&locale=en&layout=compact" alt="shining-dev" /> </p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedbouanane&show_icons=true&locale=en&layout=compact" alt="shining-dev" /> </p><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shining-dev&show_icons=true&locale=en" alt="shining-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedbouanane&show_icons=true&locale=en" alt="shining-dev" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohamedbouanane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedbouanane" /></a></p><br>
